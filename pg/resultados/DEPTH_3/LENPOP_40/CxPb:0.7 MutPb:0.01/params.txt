@@ -1,7 +1,0 @@
-sum,res,mult,div
-MaxGen: 2000
-MaxGenHOF: 500
-MaxDepth 3
-CxPb: 0.7
-MutPb: 0.01
-MaxLenPop: 40
