@@ -1,0 +1,1 @@
+{"tiempo_evolucion": 217.0831971168518, "Gen": 1793, "fitnessHOF": 4.249003285059406e-05, "seed": "b'\\xb8e\\x93\\xac\\x1b\\xad^X\\xef\\xfb\\x8f%9\\xb5\\xd4^\\x01\\xf9hH'", "depth": 3, "hof_mse": 3.7582660407082665e-05, "tree": "add(div(add(ARG4, ARG5), add(ARG0, ARG1)), div(add(ARG4, ARG5), div(ARG5, ARG3)))"}

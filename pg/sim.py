@@ -1,6 +1,6 @@
 import os
 
-MaxLenPop = [640,1280]
+MaxLenPop = [40,80,160,320,640,1280]
 CxPb = [0.7,0.9]
 MutPb = [0.01,0.03]
 MaxDepth = [3,4,5]

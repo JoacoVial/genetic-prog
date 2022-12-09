@@ -3,7 +3,7 @@ N_SIM =100
 MaxGen = 2000
 MaxGenHOF = 500
 
-file = 'definitivo-iteracion-3'
+file = './resultados'
 
 training_data = [
                     {'name': '../data/gsk80.csv', 'train':1, 'test':0},

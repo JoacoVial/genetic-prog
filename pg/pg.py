@@ -62,7 +62,7 @@ if len(args) >= 2:
     MutPb = float(args[3])
     MaxDepth = int(args[4])
 
-    directory = '../{}/DEPTH_{}/LENPOP_{}/'.format(file,MaxDepth,MaxLenPop)
+    directory = './{}/DEPTH_{}/LENPOP_{}/'.format(file,MaxDepth,MaxLenPop)
     path = directory+'CxPb:{} MutPb:{}'.format(CxPb,MutPb)
 
 if not os.path.exists(path):
